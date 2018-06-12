@@ -16,7 +16,8 @@ Spec files for LTFS
 5. cd rpmbuild
 6. spectool -D -g -R ./SPECS/ltfs.spec
 7. cd SPECS
-8. rpmbuild -ta ltfs.spec
+8. rpmbuild -bs ltfs.spec
+9. rpmbuild --rebuild ../SRPM/ltfs-2.4.0.2-10071.src.rpm
 
 # Confimed OS
 
