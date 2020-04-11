@@ -1,13 +1,13 @@
 Summary: Linear Tape File System (On GitHub)
 Name: ltfs
-Version: 2.4.1.2
-Release: 10254
+Version: 2.4.2.0
+Release: 10418
 License: BSD
 Group: Util
 Packager: User piste2750 on GitHub
 
 URL:     https://github.com/LinearTapeFileSystem/ltfs
-Source0: https://github.com/LinearTapeFileSystem/ltfs/archive/v2.4.1.2-10254/ltfs-2.4.1.2.tar.gz
+Source0: https://github.com/LinearTapeFileSystem/ltfs/archive/v2.4.2.0-10418/ltfs-2.4.2.0.tar.gz
 
 BuildRequires: automake autoconf libtool
 BuildRequires: icu libicu-devel libxml2-devel libuuid-devel fuse-devel
