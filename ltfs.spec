@@ -9,7 +9,7 @@ Packager: User piste2750 on GitHub
 URL:     https://github.com/LinearTapeFileSystem/ltfs
 Source0: https://github.com/LinearTapeFileSystem/ltfs/archive/v2.4.2.0-10418/ltfs-2.4.2.0.tar.gz
 
-BuildRequires: automake autoconf libtool
+BuildRequires: automake autoconf libtool make
 BuildRequires: icu libicu-devel libxml2-devel libuuid-devel fuse-devel
 BuildRequires: net-snmp-devel
 
